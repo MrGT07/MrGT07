@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrGT07 (Yash Patel).
 - 👀 I’m interested in Game Development and XR Technologies
-- 🌱 I’m currently learning: B.Tech (Information Technology), Unity3D (UnityLearn)
+- 🌱 I’m currently            : Employee @ Argusoft India
 - 💻 UnityLearn Public Profile: https://learn.unity.com/u/5e59487eedbc2a001f80151a?tab=profile
-- 👨‍💻 LinkedIn Profile: https://www.linkedin.com/in/yash-patel-4b044a1a2/
-- 💞️ I’m looking to collaborate on all sorts of Game Development phases.
-- 📫 How to reach me: ptlyash113@gmail.com
+- 👨‍💻 LinkedIn Profile         : https://www.linkedin.com/in/yash-patel-4b044a1a2/
+- 💞️ I’m looking to collaborate on all sorts of Game Development phases & Software-Service Development.
+- 📫 Reach me          : ptlyash113@gmail.com
